@@ -5,4 +5,4 @@ Semantic data processing and representation
 Hi Professor
 
 This is us Hanan Al-Hujaily and Nadira Ahmadi 
-The works have been done equally in each task .
+The work has been done equally in each task.
